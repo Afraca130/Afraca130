@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Afraca130&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 
