@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=3776AB&height=150&section=header&text=Afraca130&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Afraca130&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Afraca130&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afraca130&show_icons=true" />
+</picture>
 
 ![Afraca130 GitHub stats](https://github-readme-stats.vercel.app/api?username=Afraca130&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
