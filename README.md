@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Afraca130&color=FFC663)
+</div>
 
 //MysQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -28,4 +29,3 @@ Here are some ideas to get you started:
 //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
-</div>
