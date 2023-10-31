@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=3776AB&height=150&section=header&text=Afraca130&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 
 <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=white">
