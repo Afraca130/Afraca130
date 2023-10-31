@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Afraca130&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=3776AB&height=150&section=header&text=Afraca130&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 //MysQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
