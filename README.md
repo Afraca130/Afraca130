@@ -17,16 +17,20 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=3776AB&height=150&section=header&text=Afraca130&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-//NestJS
+
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
-//NodeJS
+
 <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=white">
-//MysQL
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+<img src="https://img.shields.io/badge/ts-node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-//Python
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-//github
+
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-//aws
+
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
