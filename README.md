@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Afraca130&color=FFC663)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Afraca130&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
 //MysQL
