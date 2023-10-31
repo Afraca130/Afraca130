@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Afraca130&color=#31708e)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Afraca130&color=#93D0FC)
 
