@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-![Afraca130 GitHub stats](https://github-readme-stats.vercel.app/api?username=Afraca130&show_icons=true&theme=radical)
+
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 
 <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=white">
