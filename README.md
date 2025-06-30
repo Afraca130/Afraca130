@@ -16,7 +16,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 현재 **NestJS**와 **Next.js**로 풀스택 애플리케이션 개발 중
-- 🌱 **AWS**, **Azure** 클라우드 서비스 전문가로 성장 중
+- 🌱 **AWS**, **Azure**, **Vercel** 클라우드 서비스 전문가로 성장 중
 - 💡 **확장 가능한 풀스택 아키텍처** 설계에 관심
 - 🎯 **깨끗한 코드**와 **테스트 주도 개발** 실천
 - 🚀 **모던 웹 개발**과 **서버리스 아키텍처** 추구
