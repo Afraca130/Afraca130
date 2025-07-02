@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=풀스택+개발자+🚀;NestJS+%26+Next.js+전문가+💻;TypeScript+풀스택+아키텍트+⚡;한국에서+개발하고+있습니다+🇰🇷;항상+새로운+기술을+배우는+중+📚" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=afraca130&label=Profile%20views&color=3B82F6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/afraca130?label=Followers&style=flat&color=3B82F6" alt="Followers" />
-</div>
-
 ---
 
 ## 🚀 About Me
